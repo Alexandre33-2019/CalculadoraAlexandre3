@@ -1,0 +1,9 @@
+C:\Users\aos_1\Desktop\PA\telas\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\aos_1\Desktop\PA\telas\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\aos_1\Desktop\PA\telas\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\aos_1\Desktop\PA\telas\calculadora\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+C:\Users\aos_1\Desktop\PA\telas\calculadora\calculadora\obj\Debug\calculadora.caluladora.resources
+C:\Users\aos_1\Desktop\PA\telas\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\aos_1\Desktop\PA\telas\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\aos_1\Desktop\PA\telas\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\aos_1\Desktop\PA\telas\calculadora\calculadora\obj\Debug\calculadora.pdb
